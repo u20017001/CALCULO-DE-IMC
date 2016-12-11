@@ -1,0 +1,10 @@
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\bin\Debug\CALCULO IMC.exe.config
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\bin\Debug\CALCULO IMC.exe
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\bin\Debug\CALCULO IMC.pdb
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\bin\Debug\CALCULO IMC.xml
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\obj\Debug\CALCULO_IMC.Form1.resources
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\obj\Debug\CALCULO_IMC.Resources.resources
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\obj\Debug\CALCULO IMC.vbproj.GenerateResource.Cache
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\obj\Debug\CALCULO IMC.exe
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\obj\Debug\CALCULO IMC.xml
+C:\Users\ZULY\Documents\ucci_2016\10_14_Evolucion de Software_A0190-VT1001-2016-2\CALCULO DE IMC\CALCULO IMC\CALCULO IMC\obj\Debug\CALCULO IMC.pdb
